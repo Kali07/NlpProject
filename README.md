@@ -28,7 +28,8 @@ L'objectif principal de ce modèle est de détecter la langue d'un texte donné 
 Nous avons utilisé le modèle de régression logistique pour entraîner ce modèle de détection de langue.
 
 ## Données
-Les données d'entraînement et de test proviennent du corpus XYZ. Elles ont été prétraitées pour supprimer les caractères spéciaux et normaliser le texte.
+Les données d'entraînement et de test proviennent de kaggle https://www.kaggle.com/datasets/basilb2s/language-detection?resource=download. 
+Elles ont été prétraitées pour supprimer les caractères spéciaux et normaliser le texte.
 
 ## Instructions pour lancer la WebApp
 1. Installez les dépendances en utilisant `pip install -r requirements.txt`.
