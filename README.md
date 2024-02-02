@@ -36,11 +36,6 @@ Elles ont été prétraitées pour supprimer les caractères spéciaux et normal
 2. Chargez le modèle et le vecteur TF-IDF à partir des fichiers .pkl en utilisant `joblib.load`.
 3. Exécutez l'application Streamlit avec la commande `streamlit run app.py`.
 
-## Exemple d'utilisation
-Voici comment vous pouvez utiliser notre WebApp :
-![Capture d'écran de l'application](screenshot.png)
-
-
 
 ## Auteur
 Richard MULAMBA
