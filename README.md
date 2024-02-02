@@ -5,6 +5,7 @@ Ce projet est un modèle de détection de la langue d'un texte basé sur un mod�
 
 ## Objectif
 L'objectif principal de ce modèle est de détecter la langue d'un texte donné sur un lot de 17 langues : 
+
 1) English
 2) Malayalam
 3) Hindi
@@ -35,6 +36,9 @@ Elles ont été prétraitées pour supprimer les caractères spéciaux et normal
 1. Installez les dépendances en utilisant `pip install -r requirements.txt`.
 2. Chargez le modèle et le vecteur TF-IDF à partir des fichiers .pkl en utilisant `joblib.load`.
 3. Exécutez l'application Streamlit avec la commande `streamlit run app.py`.
+
+## Instructions pour accéder au code source de la webapp
+1. Accéder à la branche MASTER du Repo `https://github.com/Kali07/NlpProject/tree/master`.
 
 
 ## Auteur
